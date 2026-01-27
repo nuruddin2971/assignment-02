@@ -1,0 +1,6 @@
+.img-container .img-button {
+  transition: transform 0.5s linear;
+}
+.img-container .img-button:hover {
+  transform: rotate(360deg);
+}
